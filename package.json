@@ -1,0 +1,13 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "truffle develop",
+    "migrate": "truffle migrate"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
